@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -18,5 +19,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
