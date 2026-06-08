@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
