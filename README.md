@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -39,4 +40,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shreedhurgadevis141-eng/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
